@@ -3,7 +3,7 @@ def my_each(collection)
 i = 0
 while i < array.length
 i = i + 1
-  # code here
+ puts i
   end
 end
 
